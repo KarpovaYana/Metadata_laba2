@@ -55,9 +55,6 @@ namespace Метаданные_ТиМП_Лаб2
                 case "udhf":
                     action = Prog;
                     break;
-                case "ortorjetjtj":
-                    action = Prog;
-                    break;
                 case "ortorjdekweetjtj":
                     action = Prog;
                     break;
